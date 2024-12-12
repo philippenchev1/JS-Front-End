@@ -83,7 +83,7 @@ input[type="button"] {
 table {
     border-collapse: collapse;
     margin-bottom: 1.5em;
-    background-color: #fff;
+    background-color: #;
 
     thead :is(td, th) {
         background: #CCC;
